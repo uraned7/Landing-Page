@@ -23,6 +23,7 @@ select{
 }
 
 button{
+    font-family: "Montserrat";
     font-weight: 600;
     height: 30px;
     width: 70px;
